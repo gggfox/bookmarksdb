@@ -1,0 +1,4 @@
+mongo
+show dbs
+use bookmarksdb
+db.bookmarks
